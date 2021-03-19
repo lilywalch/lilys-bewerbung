@@ -16,6 +16,7 @@
   font-family: ‘Roboto Condensed’, sans-serif;
   color: black;
   margin-top: 2.5vh;
+  padding-left: 2vh;
 }
 
 .nav-link:hover {
