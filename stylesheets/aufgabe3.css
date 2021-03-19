@@ -36,7 +36,8 @@
 
 .plana-banner {
   width: 100%;
-  height: 90%;
+  height: 45vh;
+  object-fit: cover;
   padding-top: 14vh;
 }
 
