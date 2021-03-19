@@ -1,1 +1,25 @@
-aufgabe2.css
+.nav-link {
+  font-family: ‘Roboto Condensed’, sans-serif;
+  color: black;
+  margin-top: 2.5vh;
+  text-decoration: none;
+}
+
+.burger-banner-div {
+  width: 100%;
+  height: 100%;
+  position: absolut;
+}
+
+.burger-banner {
+  width: 100%;
+  height: 100%;
+}
+
+.audio {
+  width: 22%;
+  position: relative;
+  z-index: 1;
+  margin-top: -35%;
+  margin-left: 40%;
+}
